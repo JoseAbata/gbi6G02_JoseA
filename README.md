@@ -14,3 +14,5 @@ Este es el repositorio de la clase de Bioinformática semestre 2022.
 ## EJECUCIÒN
 
 En este repositorio se tiene almacenado las tareas, la data y los examenes de la clase de bioinformatica
+
+Uso de GitHub Desktop para control de la versión
