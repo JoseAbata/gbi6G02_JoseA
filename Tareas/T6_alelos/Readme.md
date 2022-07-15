@@ -1,5 +1,6 @@
-#BIOINFORMATICA 2022 G02
-##Datos personales
+# BIOINFORMATICA 2022 G02
+
+## Datos personales
 - Jose Abata
 ## Detalles de equipo
 - Windows 10
